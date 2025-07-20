@@ -23,3 +23,9 @@ It serves as a single platform where women can find **self-defense products** an
 
 We created this platform to help women take charge of their safety.  
 Our aim is to make it more useful in the future with more features and real-time services.
+
+## 👥 Team Members
+
+- Sanjna Chahar
+- Ananya Jaiswal
+- Mehak Tanwani
